@@ -4,7 +4,7 @@
 A simple `C++ Program` to reverse the given string using `Execlp System Call`.
 
 ### Manual
-1) Use the following commands to `Complie the Code`:
+1) Use the following commands to `Compile the Code`:
     ```
     g++ reverseString.cpp -o reverseString
     ```
