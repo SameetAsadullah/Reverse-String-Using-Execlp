@@ -20,5 +20,5 @@ A simple `C++ Program` to reverse the given string using `Execlp System Call`.
     
 ### Working Screenshot
 <div align="center">
-  <img src = "https://github.com/SameetAsadullah/Reverse-String-Using-Execlp/blob/main/extras/working-ss.png" alt = "" width="800px"/>
+  <img src = "https://github.com/SameetAsadullah/Reverse-String-Using-Execlp/blob/main/extras/working-ss.png" alt = "" width="700px"/>
 </div>
