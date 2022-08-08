@@ -3,7 +3,6 @@
 ### Description
 A simple `C++ Program` to reverse the given string using `Execlp System Call`.
 
-
 ### Manual
 1) Use the following commands to `Complie the Code`:
     ```
